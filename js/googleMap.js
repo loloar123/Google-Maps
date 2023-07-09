@@ -4,7 +4,7 @@ export function myFunction(x, name) {
     //   name.style.marginTop = "20px";
     }
     if(name != null) {
-        name.style.marginTop = "15px";
+        // name.style.marginTop = "15px";
     }
 
   }
